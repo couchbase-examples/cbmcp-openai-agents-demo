@@ -1,4 +1,4 @@
-# MCPCouchbaseDemo: AI-Powered Couchbase Interaction
+# Couchbase MCP OpenAI Agents SDK Demo
 
 ## 1. Project Overview
 
